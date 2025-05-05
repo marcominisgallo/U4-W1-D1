@@ -15,8 +15,8 @@ public class Esercizio2 {
         String terza = scanner.nextLine();
 
 
-        String concatenazioneDiretta = prima + seconda + terza;
-        System.out.println("Concatenazione in ordine di inserimento: " + concatenazioneDiretta);
+        String concatenazione = prima + seconda + terza;
+        System.out.println("Concatenazione in ordine di inserimento: " + concatenazione);
 
 
         String concatenazioneInversa = terza + seconda + prima;
